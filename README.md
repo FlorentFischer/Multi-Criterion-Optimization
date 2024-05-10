@@ -1,5 +1,9 @@
 # Multi-Criterion-Optimization
+
+
+
 Multi-Criterion Portfolio Optimization with Mean-Variance-Skewness-Kurtosis Portfolio
+
 
 > Content  
 
@@ -42,6 +46,11 @@ c.	Normalized criterion with investor preference approach
 
 
 **MVSK_Optimization_MC_Optimizer_Engine.ipynb** : Aims to solve the local minimum issue stated above by using a time costly method of mapping an important quantity of random weight to find a more accruate optimality. 
+
+
+> References:
+
+K. K. Lai, L. Yu and S. Wang, "Mean-Variance-Skewness-Kurtosis-based Portfolio Optimization," First International Multi-Symposiums on Computer and Computational Sciences (IMSCCS'06), Hangzhou, China, 2006, pp. 292-297, doi: 10.1109/IMSCCS.2006.239.
 
 
 
