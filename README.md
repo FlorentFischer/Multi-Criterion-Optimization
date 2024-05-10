@@ -2,7 +2,7 @@
 
 
 
-Multi-Criterion Portfolio Optimization with Mean-Variance-Skewness-Kurtosis Portfolio
+Multi-Criterion Portfolio Optimization with Mean-Variance-Skewness-Kurtosis Portfolio Construction
 
 
 > Content  
