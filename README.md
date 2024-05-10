@@ -5,20 +5,33 @@ Multi-Criterion Portfolio Optimization with Mean-Variance-Skewness-Kurtosis Port
 
 1. Multi Asset Portfolio 
 
-a.	 Individual performance 
-b.	Equally weighted performance 
+a.	Individual performance of a multi asset portfolio 
 
-2. Single Criterion Optimization (Simple non-linear problem solving)
+b.	Equally weighted performance of the multi asset portfolio  
+
+
+
+
+2. Single Criterion Optimization 
 
 a.	Excess Return optimization 
+
 b.	Variance optimization 
+
 c.	Skewness optimization 
+
 d.	Kurtosis optimization 
+
+
+
+
 
 3. Multi-criterion Optimization 
 
-a.	Non-normalized criterion approach -> Focus on the largest criterion 
+a.	Non-normalized criterion approach
+
 b.	Normalized criterion approach 
+
 c.	Normalized criterion with investor preference approach 
 
 
